@@ -1,2 +1,6 @@
 # hello-world
-this repository is created following the given steps to get used to this environment.
+
+Hi Humans!
+
+Kalven here, I like PHP and MySql (that's what I have been practising!)
+I like watching sci-fi movies and reading non sci-fi books.
